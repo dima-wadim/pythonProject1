@@ -1,0 +1,18 @@
+[
+    {
+        "room_name": "Room1",
+        "gt_corners": 4,
+        "rb_corners": 3,
+        "mean_deviation": 0.5,
+        "max_deviation": 1.2,
+        "min_deviation": 0.1
+    },
+    {
+        "room_name": "Room2",
+        "gt_corners": 5,
+        "rb_corners": 5,
+        "mean_deviation": 0.3,
+        "max_deviation": 0.8,
+        "min_deviation": 0.2
+    }
+]
